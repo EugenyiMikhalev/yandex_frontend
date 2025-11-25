@@ -75,6 +75,7 @@
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
 @import url(../blocks/rotation/rotation.css);
+@import url(../blocks/hover-opacity/hover-opacity.css);
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
